@@ -20,6 +20,7 @@ For either platform, you can alternatively pass down a child element of your cho
 ## Getting Started
 
 ### Installing
+This package is built around and depends on [@react-native-picker/picker](https://github.com/react-native-picker/picker). Please make sure you install it correctly (as seen below in installation steps).
 
 ```
 npm install react-native-picker-select
